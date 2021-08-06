@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/rockstars-be.iml" filepath="$PROJECT_DIR$/.idea/rockstars-be.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rockstars-be-app/rockstars-be-app.iml" filepath="$PROJECT_DIR$/rockstars-be-app/rockstars-be-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rockstars-be-database/rockstars-be-database.iml" filepath="$PROJECT_DIR$/rockstars-be-database/rockstars-be-database.iml" />
+    </modules>
+  </component>
+</project>
